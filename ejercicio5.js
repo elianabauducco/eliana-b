@@ -1,6 +1,6 @@
 const n = 7 
-const palabra = "hongo"
+const palabra = "nina"
 
-for( const i=0; i<n; i++){
+for( var i=0; i<n; i++){
     console.log(palabra)
 }
